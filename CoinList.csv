@@ -1,0 +1,1201 @@
+slug,id,symbol,name
+bitcoin,1,BTC,Bitcoin
+ethereum,1027,ETH,Ethereum
+tether,825,USDT,Tether
+xrp,52,XRP,XRP
+polkadot-new,6636,DOT,Polkadot
+litecoin,2,LTC,Litecoin
+cardano,2010,ADA,Cardano
+bitcoin-cash,1831,BCH,Bitcoin Cash
+stellar,512,XLM,Stellar
+chainlink,1975,LINK,Chainlink
+binance-coin,1839,BNB,Binance Coin
+usd-coin,3408,USDC,USD Coin
+wrapped-bitcoin,3717,WBTC,Wrapped Bitcoin
+bitcoin-sv,3602,BSV,Bitcoin SV
+monero,328,XMR,Monero
+eos,1765,EOS,EOS
+tron,1958,TRX,TRON
+theta,2416,THETA,THETA
+nem,873,XEM,NEM
+tezos,2011,XTZ,Tezos
+uniswap,7083,UNI,Uniswap
+aave,7278,AAVE,Aave
+vechain,3077,VET,VeChain
+crypto-com-coin,3635,CRO,Crypto.com Coin
+neo,1376,NEO,Neo
+synthetix-network-token,2586,SNX,Synthetix
+maker,1518,MKR,Maker
+multi-collateral-dai,4943,DAI,Dai
+dash,131,DASH,Dash
+unus-sed-leo,3957,LEO,UNUS SED LEO
+cosmos,3794,ATOM,Cosmos
+dogecoin,74,DOGE,Dogecoin
+zcash,1437,ZEC,Zcash
+celsius,2700,CEL,Celsius
+iota,1720,MIOTA,IOTA
+binance-usd,4687,BUSD,Binance USD
+yearn-finance,5864,YFI,yearn.finance
+revain,2135,REV,Revain
+huobi-token,2502,HT,Huobi Token
+filecoin,2280,FIL,Filecoin
+compound,5692,COMP,Compound
+solana,5426,SOL,Solana
+ftx-token,4195,FTT,FTX Token
+ethereum-classic,1321,ETC,Ethereum Classic
+zilliqa,2469,ZIL,Zilliqa
+decred,1168,DCR,Decred
+avalanche,5805,AVAX,Avalanche
+sushiswap,6758,SUSHI,SushiSwap
+kusama,5034,KSM,Kusama
+waves,1274,WAVES,Waves
+hedgetrade,3662,HEDG,HedgeTrade
+elrond-egld,6892,EGLD,Elrond
+algorand,4030,ALGO,Algorand
+loopring,1934,LRC,Loopring
+renbtc,5777,RENBTC,renBTC
+uma,5617,UMA,UMA
+ontology,2566,ONT,Ontology
+omg,1808,OMG,OMG Network
+nano,1567,NANO,Nano
+the-graph,6719,GRT,The Graph
+ren,2539,REN,Ren
+terra-luna,4172,LUNA,Terra
+blockstack,4847,STX,Blockstack
+hedera-hashgraph,4642,HBAR,Hedera Hashgraph
+digibyte,109,DGB,DigiByte
+0x,1896,ZRX,0x
+reserve-rights,3964,RSR,Reserve Rights
+okb,3897,OKB,OKB
+trueusd,2563,TUSD,TrueUSD
+basic-attention-token,1697,BAT,Basic Attention Token
+icon,2099,ICX,ICON
+bittorrent,3718,BTT,BitTorrent
+near-protocol,6535,NEAR,NEAR Protocol
+nexo,2694,NEXO,Nexo
+thorchain,4157,RUNE,THORChain
+swissborg,2499,CHSB,SwissBorg
+qtum,1684,QTUM,Qtum
+horizen,1698,ZEN,Horizen
+celo,5567,CELO,Celo
+husd,4779,HUSD,HUSD
+quant,3155,QNT,Quant
+paxos-standard,3330,PAX,Paxos Standard
+bitcoin-gold,2083,BTG,Bitcoin Gold
+iostoken,2405,IOST,IOST
+verge,693,XVG,Verge
+voyager-token,1817,VGX,Voyager Token
+kyber-network,1982,KNC,Kyber Network
+nxm,5830,NXM,NXM
+augur,1104,REP,Augur
+siacoin,1042,SC,Siacoin
+energy-web-token,5268,EWT,Energy Web Token
+abbc-coin,3437,ABBC,ABBC Coin
+terrausd,7129,UST,TerraUSD
+ampleforth,4056,AMPL,Ampleforth
+status,1759,SNT,Status
+ocean-protocol,3911,OCEAN,Ocean Protocol
+band-protocol,4679,BAND,Band Protocol
+lisk,1214,LSK,Lisk
+bitcoin-bep2,4023,BTCB,Bitcoin BEP2
+decentraland,1966,MANA,Decentraland
+gnosis-gno,1659,GNO,Gnosis
+rsk-infrastructure-framework,3701,RIF,RSK Infrastructure Framework
+bancor,1727,BNT,Bancor
+bitcoin-diamond,2222,BCD,Bitcoin Diamond
+enjin-coin,2130,ENJ,Enjin Coin
+arweave,5632,AR,Arweave
+matic-network,3890,MATIC,Matic Network
+maidsafecoin,291,MAID,MaidSafeCoin
+theta-fuel,3822,TFUEL,Theta Fuel
+holo,2682,HOT,Holo
+aragon,1680,ANT,Aragon
+ravencoin,2577,RVN,Ravencoin
+zb-token,3351,ZB,ZB Token
+numeraire,1732,NMR,Numeraire
+balancer,5728,BAL,Balancer
+curve-dao-token,6538,CRV,Curve DAO Token
+chiliz,4066,CHZ,Chiliz
+cybervein,2642,CVT,CyberVein
+civic,1816,CVC,Civic
+nervos-network,4948,CKB,Nervos Network
+monacoin,213,MONA,MonaCoin
+tomochain,2570,TOMO,TomoChain
+1inch,8104,1INCH,1inch
+orchid,5026,OXT,Orchid
+pundi-x,2603,NPXS,Pundi X
+injective-protocol,7226,INJ,Injective Protocol
+pax-gold,4705,PAXG,PAX Gold
+kucoin-shares,2087,KCS,KuCoin Shares
+helium,5665,HNT,Helium
+unibright,2758,UBT,Unibright
+utrust,2320,UTK,Utrust
+funfair,1757,FUN,FunFair
+bytom,1866,BTM,Bytom
+rlc,1637,RLC,iExec RLC
+serum,6187,SRM,Serum
+storj,1772,STORJ,Storj
+ardor,1320,ARDR,Ardor
+kin,1993,KIN,Kin
+alpha-finance-lab,7232,ALPHA,Alpha Finance Lab
+kava,4846,KAVA,Kava.io
+kleros,3581,PNK,Kleros
+golem-network-tokens,1455,GLM,Golem
+bitshares,463,BTS,BitShares
+district0x,1856,DNT,district0x
+swipe,4279,SXP,Swipe
+velas,4747,VLX,Velas
+dxchain-token,3139,DX,DxChain Token
+iotex,2777,IOTX,IoTeX
+steem,1230,STEEM,Steem
+komodo,1521,KMD,Komodo
+oasis-network,7653,ROSE,Oasis Network
+electroneum,2137,ETN,Electroneum
+yearn-finance-ii,5957,YFII,DFI.Money
+keep3rv1,7535,KP3R,Keep3rV1
+syntropy,4191,NOIA,Syntropy
+aelf,2299,ELF,aelf
+aidos-kuneen,1706,ADK,Aidos Kuneen
+fantom,3513,FTM,Fantom
+harmony,3945,ONE,Harmony
+singularitynet,2424,AGI,SingularityNET
+origintrail,2467,TRAC,OriginTrail
+wax,2300,WAXP,WAX
+just,5488,JST,JUST
+wanchain,2606,WAN,Wanchain
+divi,3441,DIVI,Divi
+ankr,3783,ANKR,Ankr
+melon,1552,MLN,Melon
+hive-blockchain,5370,HIVE,Hive
+polymath-network,2496,POLY,Polymath
+handshake,5221,HNS,Handshake 
+energi,3218,NRG,Energi
+lto-network,3714,LTO,LTO Network
+sharetoken,4197,SHR,ShareToken
+fetch,3773,FET,Fetch.ai
+trustswap,5829,SWAP,TrustSwap
+ark,1586,ARK,Ark
+xdai,5601,STAKE,xDai
+populous,1789,PPT,Populous
+nimiq,2916,NIM,Nimiq
+haven-protocol,2662,XHV,Haven Protocol
+syscoin,541,SYS,Syscoin
+power-ledger,2132,POWR,Power Ledger
+stratis,1343,STRAX,Stratis
+uquid-coin,2273,UQC,Uquid Coin
+firo,1414,FIRO,Firo
+adx-net,1768,ADX,AdEx Network
+loom-network,2588,LOOM,Loom Network
+library-credit,1298,LBC,LBRY Credits
+waykichain,2346,WICC,WaykiChain
+crypto-com,1776,MCO,MCO
+redd,118,RDD,ReddCoin
+the-midas-touch-gold,3356,TMTG,The Midas Touch Gold
+elastos,2492,ELA,Elastos
+travala,2776,AVA,Travala.com
+irisnet,3874,IRIS,IRISnet
+stasis-euro,2989,EURS,STASIS EURO
+dia,6138,DIA,DIA
+solve,3724,SOLVE,SOLVE
+aion,2062,AION,Aion
+quarkchain,2840,QKC,QuarkChain
+hex,5015,HEX,HEX
+counos-x,5482,CCXX,Counos X
+ize,5677,IZE,IZE
+defichain,5804,DFI,DeFiChain
+ino-coin,3085,INO,INO COIN
+thorecoin,3144,THR,ThoreCoin
+insight-chain,3116,INB,Insight Chain
+botxcoin,3873,BOTX,botXcoin
+basid-coin,7157,BASID,Basid Coin
+creditcoin,5198,CTC,Creditcoin
+bitcoin-cash-abc-2,7686,BCHA,Bitcoin Cash ABC
+empty-set-dollar,7033,ESD,Empty Set Dollar
+cipher-core-token,5844,CIPHC,Cipher Core Token
+zelwin,5614,ZLW,Zelwin
+cryptonex,2027,CNX,Cryptonex
+joule,4967,JUL,Joule
+advanced-internet-blocks,911,AIB,Advanced Internet Blocks
+helper-search-token,3358,HSN,Helper Search Token
+huobi-btc,6941,HBTC,Huobi BTC
+sologenic,5279,SOLO,Sologenic
+doctors-coin,5796,DRS,Doctors Coin
+largo-coin,5329,LRG,Largo Coin
+elitium,3968,EUM,Elitium
+chimpion,3742,BNANA,Chimpion
+susd,2927,SUSD,sUSD
+yusra,6726,YUSRA,YUSRA
+newyork-exchange,4268,NYE,NewYork Exchange
+bridge-oracle,7096,BRG,Bridge Oracle
+bitpanda-ecosystem-token,4361,BEST,Bitpanda Ecosystem Token
+idea-chain-coin,5560,ICH,Idea Chain Coin
+tratin,4005,TRAT,Tratin
+tnc-coin,5524,TNC,TNC Coin
+mobilian-coin,7059,MBN,Mobilian Coin
+mimblewimblecoin,5031,MWC,MimbleWimbleCoin
+darma-cash,5622,DMCH,Darma Cash
+cryptobucks,5087,CBUCKS,CRYPTOBUCKS
+neutrino-usd,5068,USDN,Neutrino USD
+bloomzed-token,5280,BLCT,Bloomzed Loyalty Club Ticket
+vitae,3063,VITAE,Vitae
+keep-network,5566,KEEP,Keep Network
+greenpower,2746,GRN,GreenPower
+stpay,5785,STP,STPAY
+xenioscoin,5060,XNC,XeniosCoin
+mixin,2349,XIN,Mixin
+helleniccoin,1004,HNC,Hellenic Coin
+dimension-chain,4748,EON,Dimension Chain
+hegic,6929,HEGIC,Hegic
+beldex,3987,BDX,Beldex
+axel,6216,AXEL,AXEL
+amp,6945,AMP,Amp
+wbnb,7192,WBNB,Wrapped BNB
+parsiq,5410,PRQ,PARSIQ
+nucypher,4761,NU,NuCypher
+xinfin-network,2634,XDC,XinFin Network
+bonorum,5320,BONO,Bonorum
+qcash,2319,QC,Qcash
+rakon,5072,RKN,Rakon
+coinmetro-token,4105,XCM,CoinMetro Token
+steth,8085,STETH,stETH (Lido)
+secret,5604,SCRT,Secret
+whitecoin,268,XWC,WhiteCoin
+baer-chain,3653,BRC,Baer Chain
+strong,6511,STRONG,Strong
+gny,3936,GNY,GNY
+metacoin,6498,MTC,Metacoin
+stakenet,2633,XSN,Stakenet
+skale-network,5691,SKL,SKALE Network
+homeros,5336,HMR,Homeros
+terra-krw,5115,KRT,TerraKRW
+mindol,3296,MIN,MINDOL
+edgeware,5274,EDG,Edgeware
+attila,5600,ATT,Attila
+math,5616,MATH,MATH
+pancakeswap,7186,CAKE,PancakeSwap
+c20,2444,C20,CRYPTO20
+eauric,7758,EAURIC,Eauric
+poseidon-network,4644,QQQ,Poseidon Network
+polkastarter,7208,POLS,Polkastarter
+waves-enterprise,5159,WEST,Waves Enterprise
+bithao,7503,BHAO,Bithao
+rewardiqa,5816,REW,Rewardiqa
+bitball-treasure,4257,BTRS,Bitball Treasure
+ferrum-network,4228,FRM,Ferrum Network
+yamv1,6539,YAM,YAM v1
+perpetual-protocol,6950,PERP,Perpetual Protocol
+efforce,7882,WOZX,EFFORCE
+sport-and-leisure,3977,SNL,Sport and Leisure
+bitmax-token,3673,BTMX,BitMax Token
+the-transfer-token,5514,TTT,The Transfer Token
+cvault-finance,7242,CORE,cVault.finance
+chainx,4200,PCX,ChainX
+orion-protocol,5631,ORN,Orion Protocol
+sora,5802,XOR,Sora
+harvest-finance,6859,FARM,Harvest Finance
+nest-protocol,5841,NEST,NEST Protocol
+bankera,2842,BNK,Bankera
+sapphire,4121,SAPP,Sapphire
+1irstcoin,3840,FST,1irstcoin
+orbit-chain,5326,ORC,Orbit Chain
+mirror-protocol,7857,MIR,Mirror Protocol
+centrality,2585,CENNZ,Centrality
+btu-protocol,3737,BTU,BTU Protocol
+titanswap,7206,TITAN,TitanSwap
+everipedia,2930,IQ,Everipedia
+stem-cell-coin,3772,SCC,STEM CELL COIN
+kardiachain,5453,KAI,KardiaChain
+gatetoken,4269,GT,GateToken
+ultra,4189,UOS,Ultra
+celer-network,3814,CELR,Celer Network
+cryptaldash,3367,CRD,CryptalDash
+mxc,3628,MXC,MXC
+bitbook-gambling,4049,BXK,Bitbook Gambling
+breezecoin,3519,BRZE,Breezecoin
+yflink,6407,YFL,YF Link
+rocket-pool,2943,RPL,Rocket Pool
+tellor,4944,TRB,Tellor
+troy,5007,TROY,TROY
+wixlar,3404,WIX,Wixlar
+mstable-usd,5747,MUSD,mStable USD
+vndc,4805,VNDC,VNDC
+bhex-token,4281,BHT,BHEX Token
+trust-wallet-token,5964,TWT,Trust Wallet Token
+hxro,3748,HXRO,Hxro
+livepeer,3640,LPT,Livepeer
+streamr,2143,DATA,Streamr
+ramp,7463,RAMP,RAMP
+salt,1996,SALT,SALT
+frax-share,6953,FXS,Frax Share
+truefi-token,7725,TRU,TrueFi
+super-zero-protocol,4078,SERO,Super Zero Protocol
+saffron-finance,7617,SFI,saffron.finance
+venus,7288,XVS,Venus
+sun,6990,SUN,SUN
+orbs,3835,ORBS,Orbs
+hypercash,1903,HC,HyperCash
+vidt-datalink,3845,VIDT,VIDT Datalink
+api3,7737,API3,API3
+cryptoindex-com-100,4067,CIX100,Cryptoindex.com 100
+coti,3992,COTI,COTI
+request,2071,REQ,Request
+ultiledger,3666,ULT,Ultiledger
+cortex,2638,CTXC,Cortex
+bytecoin-bcn,372,BCN,Bytecoin
+ankreth,8100,aEth,ankrETH
+origin-protocol,5117,OGN,Origin Protocol
+bzx-protocol,5810,BZRX,bZx Protocol
+v-systems,3704,VSYS,v.systems
+safex-token,1172,SFT,Safex Token
+digixdao,1229,DGD,DigixDAO
+thunder-token,3930,TT,Thunder Token
+loki,2748,LOKI,Loki
+wirex-token,4090,WXT,Wirex Token
+extstock-token,5186,XT,ExtStock Token
+ignis,2276,IGNIS,Ignis
+mainframe,2896,MFT,Mainframe
+groestlcoin,258,GRS,Groestlcoin
+mvl,2982,MVL,MVL
+usdk,4064,USDK,USDK
+octofi,7202,OCTO,OctoFi
+axie-infinity,6783,AXS,Axie Infinity
+telcoin,2394,TEL,Telcoin
+akash-network,7431,AKT,Akash Network
+yep-coin,6777,YEP,YEP COIN
+wink,4206,WIN,WINk
+pirate-chain,3951,ARRR,Pirate Chain
+aeternity,1700,AE,Aeternity
+switcheo,2620,SWTH,Switcheo
+bora,3801,BORA,BORA
+0chain,2882,ZCN,0Chain
+beam,3702,BEAM,Beam
+metal,1788,MTL,Metal
+darwinia-network,5798,RING,Darwinia Network
+repo,2829,REPO,REPO
+ducato-protocol-token,7133,DUCATO,Ducato Protocol Token
+frax,6952,FRAX,Frax
+nuls,2092,NULS,NULS
+hermez-network,7424,HEZ,Hermez Network
+the-sandbox,6210,SAND,The Sandbox
+zap,2363,ZAP,Zap
+vethor-token,3012,VTHO,VeThor Token
+dynamic-trading-rights,2298,DTR,Dynamic Trading Rights
+usdx-kava,6651,USDX,USDX [Kava]
+sapien,3091,SPN,Sapien
+certik,4807,CTK,CertiK
+native-utility-token,4033,NUT,Native Utility Token
+reef,6951,REEF,Reef
+pivx,1169,PIVX,PIVX
+metaverse-dualchain-network-architecture,5234,DNA,Metaverse Dualchain Network Architecture
+veritaseum,1710,VERI,Veritaseum
+dent,1886,DENT,Dent
+ripio-credit-network,2096,RCN,Ripio Credit Network
+gxchain,1750,GXC,GXChain
+akropolis,4134,AKRO,Akropolis
+grin,3709,GRIN,Grin
+celo-dollar,7236,CUSD,Celo Dollar
+vai,7824,VAI,Vai
+buggyra-coin-zero,3415,BCZERO,Buggyra Coin Zero
+basic,5481,BASIC,BASIC
+nexalt,6735,XLT,Nexalt
+vestchain,3607,VEST,VestChain
+flamingo,7150,FLM,Flamingo
+morpheus-network,2763,MRPH,Morpheus.Network
+waltonchain,1925,WTC,Waltonchain
+barnbridge,7440,BOND,BarnBridge
+bosagora,4217,BOA,BOSAGORA
+agavecoin,3664,AGVC,AgaveCoin
+ghostprism,5475,GHOST,GHOSTPRISM
+nash-exchange,3829,NEX,Nash Exchange
+crpt,2447,CRPT,Crypterium
+ecoreal-estate,3344,ECOREAL,Ecoreal Estate
+metronome,2873,MET,Metronome
+nervenetwork,5906,NVT,NerveNetwork
+nexus,789,NXS,Nexus
+rsk-smart-bitcoin,3626,RBTC,RSK Smart Bitcoin
+stormx,2297,STMX,StormX
+maximine-coin,3115,MXM,Maximine Coin
+hard-protocol,7576,HARD,HARD Protocol
+mx-token,4041,MX,MX Token
+audius,7455,AUDIO,Audius
+lambda,3657,LAMB,Lambda
+decentralized-vulnerability-platform,4520,DVP,Decentralized Vulnerability Platform
+asta,6375,ASTA,ASTA
+huobi-pool-token,3721,HPT,Huobi Pool Token
+bluzelle,2505,BLZ,Bluzelle
+meta,5748,MTA,Meta
+quantstamp,2212,QSP,Quantstamp
+galatasaray-fan-token,5228,GAL,Galatasaray Fan Token
+peakdefi,5354,PEAK,PEAKDEFI
+arpa-chain,4039,ARPA,ARPA Chain
+robonomics-network,4757,XRT,Robonomics.network
+airswap,2058,AST,AirSwap
+refereum,2553,RFR,Refereum
+wazirx,5161,WRX,WazirX
+zynecoin,4951,ZYN,Zynecoin
+counos-coin,4122,CCA,Counos Coin
+cindicator,2043,CND,Cindicator
+ergo,1762,ERG,Ergo
+steem-dollars,1312,SBD,Steem Dollars
+cream-finance,6193,CREAM,Cream Finance
+einsteinium,201,EMC2,Einsteinium
+fc-barcelona-fan-token,5225,BAR,FC Barcelona Fan Token
+dad,4862,DAD,DAD
+quantum-resistant-ledger,1712,QRL,Quantum Resistant Ledger
+idex,3928,IDEX,IDEX
+etherisc,6588,DIP,Etherisc DIP Token
+veruscoin,5049,VRSC,VerusCoin
+klever,6724,KLV,Klever
+nectar,2538,NEC,Nectar
+dragonchain,2243,DRGN,Dragonchain
+sparkpoint,3935,SRK,SparkPoint
+universa,2524,UTNP,Universa
+zenon,4003,ZNN,Zenon
+12ships,4280,TSHP,12Ships
+phala-network,6841,PHA,Phala.Network
+gas,1785,GAS,Gas
+massnet,5548,MASS,Massnet
+eccoin,212,ECC,ECC
+duckdaodime,6611,DDIM,DuckDaoDime
+invictus-hyperion-fund,3301,IHF,Invictus Hyperion Fund
+obyte,1492,GBYTE,Obyte
+wom-protocol,5328,WOM,WOM Protocol
+aladdin,4057,ADN,Aladdin
+dusk-network,4092,DUSK,Dusk Network
+nebulas-token,1908,NAS,Nebulas
+contentos,4036,COS,Contentos
+reflect-finance,7747,RFI,reflect.finance
+rally,8075,RLY,Rally
+aurora,2874,AOA,Aurora
+standard-tokenization-protocol,4006,STPT,Standard Tokenization Protocol
+salus,1159,SLS,SaluS
+xensor,4818,XSR,Xensor
+youcash,7321,YOUC,yOUcash
+agoras-tokens,1037,AGRS,Agoras Tokens
+seigniorage-shares,6868,SHARE,Seigniorage Shares
+gemini-dollar,3306,GUSD,Gemini Dollar
+revv,6993,REVV,REVV
+newscrypto,4890,NWC,Newscrypto
+bigone-token,2324,ONE,BigONE Token
+neutrino-system-base-token,7320,NSBT,Neutrino Token
+latoken,2090,LA,LATOKEN
+drep,3924,DREP,DREP
+dforce,4758,DF,dForce
+bitforex-token,4283,BF,BitForex Token
+contracoin,5313,CTCN,CONTRACOIN
+spartan-protocol,6992,SPARTA,Spartan Protocol
+lcx,4950,LCX,LCX
+apollo-currency,2992,APL,Apollo Currency
+unifi-protocol-dao,7672,UNFI,Unifi Protocol DAO
+gifto,2289,GTO,Gifto
+boringdao,7509,BOR,BoringDAO
+function-x,3884,FX,Function X
+prometeus,4120,PROM,Prometeus
+platincoin,3364,PLC,PLATINCOIN
+next,3788,NET,NEXT
+bonfida,7978,FIDA,Bonfida
+neblio,1955,NEBL,Neblio
+gem-exchange-and-trading,7310,GXT,Gem Exchange And Trading
+polybius,1784,PLBT,Polybius
+usdj,5446,USDJ,USDJ
+dmm-governance,5741,DMG,DMM: Governance
+tokenlon-network-token,8083,LON,Tokenlon Network Token
+props,5880,PROPS,Props Token
+leverj,2377,LEV,Leverj
+bitcoin2,3974,BTC2,Bitcoin 2
+otocash,3850,OTO,OTOCASH
+spendcoin,3307,SPND,Spendcoin
+measurable-data-token,2348,MDT,Measurable Data Token
+thorenext,3916,THX,ThoreNext
+global-digital-content,4678,GDC,Global Digital Content
+king-dag,5626,KDAG,King DAG
+cocos-bcx,4275,COCOS,Cocos-BCX
+bella-protocol,6928,BEL,Bella Protocol
+unobtanium,67,UNO,Unobtanium
+marlin,7497,POND,Marlin
+monolith,1660,TKN,Monolith
+bhp-coin,3020,BHP,BHPCoin
+nav-coin,377,NAV,NavCoin
+juventus-fan-token,5224,JUV,Juventus Fan Token
+suku,6180,SUKU,SUKU
+paris-saint-germain-fan-token,5226,PSG,Paris Saint-Germain Fan Token
+beowulf,7176,BWF,Beowulf
+sentinel,2643,SENT,Sentinel
+moss-coin,2915,MOC,Moss Coin
+bitcoinpos,5815,BPS,BitcoinPoS
+firstblood,1403,1ST,FirstBlood
+perlin,4293,PERL,Perlin
+molecular-future,2441,MOF,Molecular Future
+dock,2675,DOCK,Dock
+platoncoin,3753,PLTC,PlatonCoin
+endor-protocol,2835,EDR,Endor Protocol
+factom,1087,FCT,Factom
+blocknet,707,BLOCK,Blocknet
+qash,2213,QASH,QASH
+medibloc,2303,MED,MediBloc
+truechain,2457,TRUE,TrueChain
+aergo,3637,AERGO,Aergo
+levolution,4173,LEVL,Levolution
+crypto-village-accelerator,6005,CVA,Crypto Village Accelerator
+raiden-network-token,2161,RDN,Raiden Network Token
+carry,3946,CRE,Carry
+iqeon,3336,IQN,IQeon
+powerpool,6669,CVP,PowerPool
+cashaa,2529,CAS,Cashaa
+emirex-token,4490,EMRX,Emirex Token
+nxt,66,NXT,Nxt
+egoras,5075,EGR,Egoras
+bitkan,2934,KAN,BitKan
+bitcoinhd,3966,BHD,BitcoinHD
+everus,2066,EVR,Everus
+peercoin,5,PPC,Peercoin
+playfuel,5084,PLF,PlayFuel
+spacechain,2410,SPC,SpaceChain
+milk-alliance,5266,MLK,MiL.k
+sentivate,3917,SNTVT,Sentivate
+zbg-token,3458,ZT,ZBG Token
+jewel,3791,JWL,Jewel
+degenerator-meme,6597,MEME,Meme
+dex,3515,DEX,DEX
+vertcoin,99,VTC,Vertcoin
+dmarket,2503,DMT,DMarket
+prizm,1681,PZM,PRIZM
+general-attention-currency,4220,XAC,General Attention Currency
+nkn,2780,NKN,NKN
+bounce-token,6365,BOT,Bounce Token
+atomic-wallet-coin,3667,AWC,Atomic Wallet Coin
+dkargo,5908,DKA,dKargo
+genesis-vision,2181,GVT,Genesis Vision
+moac,2403,MOAC,MOAC
+moeda-loyalty-points,1954,MDA,Moeda Loyalty Points
+sirin-labs-token,2313,SRN,SIRIN LABS Token
+moviebloc,4038,MBL,MovieBloc
+davinci-coin,3154,DAC,Davinci Coin
+fnb-protocol,3858,FNB,FNB Protocol
+dinastycoin,1745,DCY,Dinastycoin
+wing,7048,WING,Wing
+digitalbits,4566,XDB,DigitalBits
+pac-global,1107,PAC,PAC Global
+render-token,5690,RNDR,Render Token
+metadium,3418,META,Metadium
+jd-coin,4929,JDC,JD Coin
+dragon-coins,2593,DRG,Dragon Coins
+proton,5350,XPR,Proton
+leverj-gluon,7772,L2,Leverj Gluon
+credit-tag-chain,3195,CTC,Credit Tag Chain
+frontier,5893,FRONT,Frontier
+erc20,2165,ERC20,ERC20
+chromia,3978,CHR,Chromia
+anchor-neural-world,6120,ANW,Anchor Neural World
+ost,2296,OST,OST
+sentinel-protocol,2866,UPP,Sentinel Protocol
+maro,3175,MARO,Maro
+aleph-im,5821,ALEPH,Aleph.im
+tachyon-protocol,5103,IPX,Tachyon Protocol
+project-pai,2900,PAI,Project Pai
+smartofgiving,3316,AOG,smARTOFGIVING
+conun,3866,CON,CONUN
+skycoin,1619,SKY,Skycoin
+likecoin,2909,LIKE,LikeCoin
+anchor,4901,ANCT,Anchor
+dexe,7326,DEXE,DeXe
+aen-smart-token,3683,AENS,AEN Smart Token
+animalgo,5839,GOM2,AnimalGo
+cartesi,5444,CTSI,Cartesi
+oraichain-token,7533,ORAI,Oraichain Token
+wowbit,2892,WWB,Wowbit
+yfdai-finance,6938,YF-DAI,YFDAI.FINANCE
+fusion,2530,FSN,Fusion
+gocrypto-token,3052,GOC,GoCrypto Token
+satt,7244,SATT,SaTT
+coinex-token,2941,CET,CoinEx Token
+telos,4660,TLOS,Telos
+rchain,2021,REV,RChain
+decentrahub-coin,6609,DCNTR,Decentrahub Coin
+trade-token-x,3642,TIOX,Trade Token X
+hashgard,2938,GARD,Hashgard
+phoenix-global,2112,PHB,Phoenix Global
+namecoin,3,NMC,Namecoin
+tap,5070,XTP,Tap
+biki,5325,BIKI,BIKI
+dextools,5866,DEXT,DEXTools
+karatgold-coin,2907,KBC,Karatgold Coin
+ruff,2476,RUFF,Ruff
+polis,2359,POLIS,Polis
+dero,2665,DERO,Dero
+gulden,254,NLG,Gulden
+presearch,2245,PRE,Presearch
+aryacoin,3973,AYA,Aryacoin
+oax,1853,OAX,OAX
+s4fe,3733,S4F,S4FE
+constellation,2868,DAG,Constellation
+gleec,5200,GLEEC,Gleec
+symverse,4824,SYM,SymVerse
+viacoin,470,VIA,Viacoin
+cwv-chain,3609,CWV,CWV Chain
+firmachain,4953,FCT,FirmaChain
+amber,2081,AMB,Ambrosus
+inflationcoin,1504,IFLT,InflationCoin
+vidy,4431,VIDY,VIDY
+bit-z-token,2918,BZ,Bit-Z Token
+fibos,4058,FO,FIBOS
+mithril,2608,MITH,Mithril
+keeperdao,7678,ROOK,KeeperDAO
+kadena,5647,KDA,Kadena
+dynamic,1587,DYN,Dynamic
+piedao-dough-v2,7284,DOUGH,PieDAO DOUGH v2
+olive,2957,OLE,Olive
+linkeye,2468,LET,LinkEye
+vnx-exchange,4430,VNXLU,VNX Exchange
+metaverse,1703,ETP,Metaverse ETP
+digitex-city,2772,DGTX,Digitex Token
+map-protocol,4956,MAP,MAP Protocol
+morpheus-labs,2709,MITX,Morpheus Labs
+observer,3698,OBSR,Observer
+arcblock,2545,ABT,Arcblock
+xio,4997,XIO,XIO
+gala,7080,GALA,Gala
+selfkey,2398,KEY,Selfkey
+ubiq,588,UBQ,Ubiq
+metahash,3756,MHC,#MetaHash
+hunt,5380,HUNT,HUNT
+amo-coin,3260,AMO,AMO Coin
+aavegotchi,7046,GHST,Aavegotchi
+pnetwork,5794,PNT,pNetwork
+playchip,3731,PLA,PlayChip
+gochain,2861,GO,GoChain
+egoras-dollar,5124,EUSD,Egoras Dollar
+tenx,1758,PAY,TenX
+kryll,2949,KRL,Kryll
+appcoins,2344,APPC,AppCoins
+kcash,2379,KCASH,Kcash
+atari-token,7395,ATRI,Atari Token
+wagerr,1779,WGR,Wagerr
+high-performance-blockchain,2345,HPB,High Performance Blockchain
+lockchain,2287,LOC,LockTrip
+wabi,2267,WABI,Wabi
+cybermiles,2246,CMT,CyberMiles
+clams,460,CLAM,Clams
+gamecredits,576,GAME,GameCredits
+time-new-bank,2235,TNB,Time New Bank
+videocoin,4300,VID,VideoCoin
+mixmarvel,4366,MIX,MixMarvel
+cobak-token,8107,CBK,Cobak Token
+vite,2937,VITE,VITE
+dodo,7224,DODO,DODO
+everex,2034,EVX,Everex
+atletico-de-madrid-fan-token,5227,ATM,Atletico De Madrid Fan Token
+dsla-protocol,5423,DSLA,DSLA Protocol
+content-value-network,3686,CVNT,Content Value Network
+seele,2830,SEELE,Seele-N
+quickx-protocol,3883,QCX,QuickX Protocol
+buysell,5056,BULL,BuySell
+pumapay,3164,PMA,PumaPay
+free-tool-box-coin,6613,FTB,Free Tool Box Coin
+origin-dollar,7189,OUSD,Origin Dollar
+apix,5258,APIX,APIX
+wepower,2511,WPR,WePower
+tokamak-network,6731,TON,Tokamak Network
+blockv,2223,VEE,BLOCKv
+lukso,5625,LYXe,LUKSO
+quiztok,4746,QTCON,Quiztok
+lightning-bitcoin,2335,LBTC,Lightning Bitcoin
+aitra,7255,AITRA,Aitra
+metrix-coin,1814,MRX,Metrix Coin
+dawn-protocol,5618,DAWN,Dawn Protocol
+foam,3631,FOAM,FOAM
+karma-eos,3137,KARMA,KARMA
+realio-network,4166,RIO,Realio Network
+particl,1826,PART,Particl
+cryptocean,4309,CRON,Cryptocean
+dragonvein,5902,DVC,DragonVein
+bread,2306,BRD,Bread
+ilcoin,3617,ILC,ILCOIN
+burger-swap,7158,BURGER,Burger Swap
+elamachain,3734,ELAMA,Elamachain
+pchain,2838,PI,PCHAIN
+blocery,6283,BLY,Blocery
+orient-walt,5127,HTDF,Orient Walt
+og-fan-token,5309,OG,OG Fan Token
+cutcoin,4752,CUT,CUTcoin
+voisecom,2012,VOISE,Voise
+smartcash,1828,SMART,SmartCash
+litedoge,853,LDOGE,LiteDoge
+trustverse,4060,TRV,TrustVerse
+suncontract,1786,SNC,SunContract
+tokenclub,2364,TCT,TokenClub
+digital-asset-guarantee-token,3357,DAGT,Digital Asset Guarantee Token
+casinocoin,45,CSC,CasinoCoin
+valobit,6947,VBIT,Valobit
+grid,2134,GRID,Grid+
+unilend,7412,UFT,UniLend
+nucleus-vision,2544,NCASH,Nucleus Vision
+mysterium,1721,MYST,Mysterium
+statera,5868,STA,STATERA
+level01,5094,LVX,Level01
+achain,1918,ACT,Achain
+ndex,3413,NDX,nDEX
+as-roma-fan-token,5229,ASR,AS Roma Fan Token
+42-coin,93,42,42-coin
+diamond,77,DMD,Diamond
+apy-finance,7227,APY,APY.Finance
+fio-protocol,5865,FIO,FIO Protocol
+eminer,4215,EM,Eminer
+propy,1974,PRO,Propy
+nestree,4467,EGG,Nestree
+hakka-finance,6622,HAKKA,Hakka.Finance
+newton,3871,NEW,Newton
+carboncoin,502,CARBON,Carboncoin
+triumphx,6801,TRIX,TriumphX
+poa,2548,POA,POA
+veriblock,3846,VBK,VeriBlock
+1sg,3762,1SG,1SG
+mobius,2429,MOBI,Mobius
+litecoin-cash,2540,LCC,Litecoin Cash
+liquid-apps,4026,DAPP,LiquidApps
+safe-haven,3831,SHA,Safe Haven
+zimbocash,5610,ZASH,ZIMBOCASH
+t-os,3707,TOSC,T.OS
+powertrade-fuel,7190,PTF,PowerTrade Fuel
+digitalnote,405,XDN,DigitalNote
+inlock,4754,ILK,INLOCK
+cryptopay,2314,CPAY,Cryptopay
+unitrade,6195,TRADE,Unitrade
+tokenomy,2576,TEN,Tokenomy
+the-force-protocol,4118,FOR,ForTube
+top,3826,TOP,TOP
+bizzcoin,5437,BIZZ,BIZZCOIN
+nexty,2714,NTY,Nexty
+folgory-coin,4842,FLG,Folgory Coin
+usdq,4020,USDQ,USDQ
+elysia,5382,EL,ELYSIA
+88mph,7742,MPH,88mph
+free-coin,3388,FREE,FREE Coin
+tronclassic,3354,TRXC,TRONCLASSIC
+pillar,1834,PLR,Pillar
+minter-network,4957,BIP,Minter Network
+backpacker-coin,5641,BPC,BackPacker Coin
+dos-network,3809,DOS,DOS Network
+covesting,2342,COV,Covesting
+proximax,3126,XPX,ProximaX
+monero-classic,2655,XMC,Monero Classic
+hedget,6949,HGET,Hedget
+yield-app,8066,YLD,YIELD App
+bitmart-token,2933,BMX,BitMart Token
+kimchi-finance,6839,KIMCHI,KIMCHI.finance
+stakecubecoin,3986,SCC,StakeCubeCoin
+temco,3722,TEMCO,TEMCO
+uttoken,2371,UTT,United Traders Token
+fleta,4103,FLETA,FLETA
+smartlands-network,2471,SLT,Smartlands Network
+mirrored-tesla,8004,mTSLA,Mirrored Tesla
+precium,4958,PCM,Precium
+smart-mfg,2658,MFG,Smart MFG
+zeon,3795,ZEON,ZEON
+uca-coin,5479,UCA,UCA Coin
+mirrored-apple,8001,mAAPL,Mirrored Apple
+colossusxt,2001,COLX,ColossusXT
+wootrade,7501,WOO,Wootrade
+suterusu,4841,SUTER,suterusu
+dollars,6955,USDX,Dollars
+lgo-token,2600,LGO,LGO Token
+esportbits,3838,HLT,Esportbits
+fatcoin,3766,FAT,Fatcoin
+roobee,4804,ROOBEE,ROOBEE
+daostack,2726,GEN,DAOstack
+zano,4691,ZANO,Zano
+valor-token,3875,VALOR,Valor Token
+cardstack,2891,CARD,Cardstack
+naga,2305,NGC,NAGA
+bibox-token,2307,BIX,Bibox Token
+burst,573,BURST,Burst
+feathercoin,8,FTC,Feathercoin
+beefy-finance,7311,BIFI,Beefy.Finance
+yoyow,1899,YOYOW,YOYOW
+cononchain,3040,CZR,CanonChain
+dentacoin,1876,DCN,Dentacoin
+constant,3739,CONST,Constant
+justliquidity,6937,JUL,JustLiquidity
+darwinia-commitment-token,5931,KTON,Darwinia Commitment Token
+fabrk,4360,FAB,FABRK
+deapcoin,5429,DEP,DEAPcoin
+idle,7841,IDLE,Idle
+euno,3071,EUNO,EUNO
+santiment,1807,SAN,Santiment Network Token
+humanscape,3600,HUM,Humanscape
+dforce-usdx,4621,USDX,dForce USDx
+crust,6747,CRU,Crust
+te-food,2578,TONE,TE-FOOD
+pluton,1392,PLU,Pluton
+vibe,1983,VIBE,VIBE
+blox,1864,CDT,Blox
+bnktothefuture,2605,BFT,BnkToTheFuture
+lynx,3099,LYNX,Lynx
+abyss,2847,ABYSS,Abyss
+alpha-quark-token,7460,AQT,Alpha Quark Token
+apm-coin,5079,APM,apM Coin
+agrello-delta,1949,DLT,Agrello
+mir-coin,3371,MIR,MIR COIN
+ternio,2876,TERN,Ternio
+mb8-coin,4209,MB8,MB8 Coin
+microbitcoin,3507,MBC,MicroBitcoin
+gaps,4694,GAP,GAPS
+neumark,2318,NEU,Neumark
+global-cryptocurrency,1531,GCC,Global Cryptocurrency
+btse,5305,BTSE,BTSE
+hold,2863,HOLD,HOLD
+tixl-new,7024,TXL,Tixl [NEW]
+cryptoping,1777,PING,CryptoPing
+insure,5113,SURE,inSure
+noku,3138,NOKU,Noku
+geeq,6194,GEEQ,Geeq
+bitcny,624,BITCNY,bitCNY
+tixl-old,4451,MTXLT,Tixl [old]
+ring-x-platform,4894,RINGX,RING X PLATFORM
+digix-gold-token,2739,DGX,Digix Gold Token
+etheroll,1677,DICE,Etheroll
+polyswarm,2630,NCT,PolySwarm
+defi-yield-protocol,8080,DYP,DeFi Yield Protocol
+data,2446,DTA,DATA
+nubits,626,USNBT,NuBits
+bitgreen,2604,BITG,BitGreen
+iot-chain,2251,ITC,IoT Chain
+penta,2691,PNT,Penta
+aragon-court,5523,ANJ,Aragon Court
+aidus-token,3785,AIDUS,AIDUS TOKEN
+jibrel-network,2498,JNT,Jibrel Network
+spectre-dividend,2381,SXDT,Spectre.ai Dividend Token
+lamden,2337,TAU,Lamden
+scprime,4074,SCP,ScPrime
+all-sports,2473,SOC,All Sports
+quasarcoin,3419,QAC,Quasarcoin
+get-protocol,2354,GET,GET Protocol
+trittium,2865,TRTT,Trittium
+qubitica,3224,QBIT,Qubitica
+swerve,6901,SWRV,Swerve
+carvertical,2450,CV,carVertical
+decoin,4277,DTEP,DECOIN
+multiplier,6583,MXX,Multiplier
+nexxo,4707,NEXXO,Nexxo
+hycon,3147,HYC,HYCON
+bitcore,1654,BTX,BitCore
+synlev,7520,SYN,SynLev
+phantasma,2827,SOUL,Phantasma
+safe,3918,SAFE,Safe
+insights-network,2558,INSTAR,Insights Network
+callisto-network,2757,CLO,Callisto Network
+mettalex,7256,MTLX,Mettalex
+qiibee,4100,QBX,qiibee
+bolt,3843,BOLT,BOLT
+viberate,2019,VIB,Viberate
+odem,2631,ODE,ODEM
+fyeth-finance,7989,YETH,fyeth.finance
+alchemy-pay,6958,ACH,Alchemy Pay
+swingby,5922,SWINGBY,Swingby
+idena,5836,IDNA,Idena
+qredit,3821,XQR,Qredit
+diamond-platform-token,3920,DPT,Diamond Platform Token
+monetha,1947,MTH,Monetha
+block-chain-com,3406,BC,Block-Chain.com
+veridocglobal,3205,VDG,VeriDocGlobal
+qlink,2321,QLC,QLC Chain
+senso,5522,SENSO,SENSO
+asian-fintech,3949,AFIN,Asian Fintech
+blockstamp,3997,BST,BlockStamp
+baasid,3142,BAAS,BaaSid
+myriad,182,XMY,Myriad
+kubocoin,3901,KUBO,KuboCoin
+midas,4505,MIDAS,Midas
+potcoin,122,POT,PotCoin
+graviocoin,3118,GIO,Graviocoin
+iethereum,2104,IETH,iEthereum
+six,3327,SIX,SIX
+toacoin,1833,TOA,ToaCoin
+sonm,1723,SNM,SONM
+credits,2556,CS,Credits
+mirrored-invesco-qqq-trust,8025,mQQQ,Mirrored Invesco QQQ Trust
+aeon,1026,AEON,Aeon
+rubycoin,215,RBY,Rubycoin
+e-gulden,234,EFL,e-Gulden
+effect-ai,2666,EFX,Effect.AI
+zumcoin,3652,ZUM,ZumCoin
+mirrored-microsoft,8017,mMSFT,Mirrored Microsoft
+amon,2705,AMN,Amon
+cpchain,2482,CPC,CPChain
+oneroot-network,2400,RNT,OneRoot Network
+swftcoin,2341,SWFTC,SwftCoin
+dune-network,5160,DUN,Dune Network
+mirrored-amazon,8016,mAMZN,Mirrored Amazon
+earneo,3679,RNO,Earneo
+deeponion,1881,ONION,DeepOnion
+game,2336,GTC,Game.com
+rupiah-token,4702,IDRT,Rupiah Token
+nsure-network,7231,NSURE,Nsure.Network
+jobchain,4287,JOB,Jobchain
+halalchain,2480,HLC,HalalChain
+mirrored-ishares-gold-trust,8024,mIAU,Mirrored iShares Gold Trust
+somesing,5612,SSX,SOMESING
+nfx-coin,5545,NFXC,NFX Coin
+singulardtv,1409,SNGLS,SingularDTV
+phore,2158,PHR,Phore
+bezant,2727,BZNT,Bezant
+sonocoin,5420,SONO,SonoCoin
+casino-betting-coin,2855,CBC,Casino Betting Coin
+bitrue-coin,4167,BTR,Bitrue Coin
+lykke,1454,LKK,Lykke
+ormeus-ecosystem,4466,ECO,Ormeus Ecosystem
+qitmeer,5144,PMEER,Qitmeer
+counterparty,132,XCP,Counterparty
+verasity,3816,VRA,Verasity
+vnt-chain,3988,VNT,VNT Chain
+xmax,2859,XMX,XMax
+you-coin,3053,YOU,YOU COIN
+flash,1755,FLASH,Flash
+mirrored-united-states-oil-fund,8027,mUSO,Mirrored United States Oil Fund
+troneuroperewardcoin,6508,TERC,TronEuropeRewardCoin
+geodb,5590,GEO,GeoDB
+mirrored-alibaba,8006,mBABA,Mirrored Alibaba
+smartmesh,2277,SMT,SmartMesh
+mirrored-ishares-silver-trust,8026,mSLV,Mirrored iShares Silver Trust
+medishares,2274,MDS,MediShares
+swace,4199,SWACE,Swace
+tera,3948,TERA,TERA
+shift,1050,SHIFT,Shift
+xyo,2765,XYO,XYO
+html-coin,2315,HTML,HTMLCOIN
+stablexswap,7502,STAX,StableXSwap
+auctus,2653,AUC,Auctus
+truefeedback,4144,TFB,TrueFeedBack
+gridcoin,833,GRC,GridCoin
+atlas-protocol,3620,ATP,Atlas Protocol
+alqo,2199,XLQ,ALQO
+emercoin,558,EMC,Emercoin
+mirrored-twitter,8018,mTWTR,Mirrored Twitter
+veros,1465,VRS,Veros
+mirrored-netflix,8005,mNFLX,Mirrored Netflix
+bux-token,2465,BUX,BUX Token
+doc-com,2711,MTC,DOC.COM
+base-protocol,7838,BASE,Base Protocol
+pibble,3768,PIB,PIBBLE
+pressone,2455,PRS,PressOne
+coineal-token,3960,NEAL,Coineal Token
+modern-investment-coin,6176,MODIC,Modern Investment Coin
+tripio,2661,TRIO,Tripio
+origo,3985,OGO,Origo
+okcash,760,OK,OKCash
+hyperdao,5299,HDAO,HyperDAO
+ugas,3863,UGAS,UGAS
+airbloc,3156,ABL,Airbloc
+denarius-d,1769,D,Denarius
+exmo-coin,4974,EXM,EXMO Coin
+aga,6404,AGA,AGA Token
+bismuth,2009,BIS,Bismuth
+hyprr,3608,UDOO,Hyprr (Howdoo)
+traceability-chain,3227,TAC,Traceability Chain
+airwire,3440,WIRE,AirWire
+wings,1500,WINGS,Wings
+anyswap,5892,ANY,Anyswap
+polyient-games-governance-token,7315,PGT,Polyient Games Governance Token
+nyzo,5155,NYZO,Nyzo
+unlimitedip,2454,UIP,UnlimitedIP
+blackcoin,170,BLK,BlackCoin
+stealth,448,XST,Stealth
+bit-tube,2561,TUBE,BitTube
+int-chain,2399,INT,INT
+matrix-ai-network,2474,MAN,Matrix AI Network
+remme,2546,REM,Remme
+validity,1154,VAL,Validity
+team-heretics-fan-token,7636,TH,Team Heretics Fan Token
+mooncoin,89,MOON,Mooncoin
+safe-deal,7270,SFD,SAFE DEAL
+jarvis-network,5187,JRT,Jarvis Network
+egretia,2885,EGT,Egretia
+sense,2402,SENSE,Sense
+hydro-protocol,2430,HOT,Hydro Protocol
+kingdom-game-4,5407,KDG,Kingdom Game 4.0
+kira-network,6930,KEX,Kira Network
+blockchain-certified-data-token,3616,BCDT,Blockchain Certified Data Token
+multi-channel-influencer-creater-cloud-funding-platform,6810,MCI,Multi Channel Influencer Creater Cloud Funding Platform
+parachute,4051,PAR,Parachute
+growthdefi,6718,GRO,Growth DeFi
+netbox-coin,4297,NBX,Netbox Coin
+eosdt,4017,EOSDT,EOSDT
+enigma,2044,ENG,Enigma
+binance-idr,6855,BIDR,BIDR
+mirrored-proshares-vix-short-term-futures-etf,8028,mVIXY,Mirrored ProShares VIX
+coinpoker,2569,CHP,CoinPoker
+minereum,1673,MNE,Minereum
+rotharium,3279,RTH,Rotharium
+genaro-network,2291,GNX,Genaro Network
+cache-gold,5719,CGT,CACHE Gold
+dejave,7834,DJV,DEJAVE
+wownero,4978,WOW,Wownero
+intellishare,3811,INE,IntelliShare
+blockmason,2061,BCPT,Blockmason Credit Protocol
+spankchain,2219,SPANK,SpankChain
+couchain,2858,COU,Couchain
+deepbrain-chain,2316,DBC,DeepBrain Chain
+zel,3029,ZEL,Zel
+caspian,3842,CSP,Caspian
+x-cash,3334,XCASH,X-CASH
+goldcoin,25,GLC,Goldcoin
+u-network,2645,UUU,U Network
+nextdao,5873,NAX,NextDAO
+nuco-cloud,6933,NCDT,Nuco.cloud
+lympo,2554,LYM,Lympo
+bitex-global-xbx-coin,3797,XBX,Bitex Global XBX Coin
+nolimitcoin,1382,NLC2,NoLimitCoin
+budbo,2654,BUBO,Budbo
+oneledger,2921,OLT,OneLedger
+ezoow,3491,EZW,EZOOW
+databroker,2913,DTX,Databroker
+homihelp,5572,HOMI,HOMIHELP
+finnexus,5712,FNX,FinNexus
+edc-blockchain,7521,EDC,EDC Blockchain
+gene-source-code-chain,3297,GENE,Gene Source Code Chain
+merculet,2869,MVP,Merculet
+crown,720,CRW,Crown
+synchrobitcoin,5277,SNB,SynchroBitcoin
+cryptofranc,4075,XCHF,CryptoFranc
+xaya,5541,CHI,Xaya
+nushares,699,NSR,NuShares
+napoleonx,2602,NPX,NaPoleonX
+spiking,4094,SPIKE,Spiking
+bitcoin-rhodium,3839,XRC,Bitcoin Rhodium
+vipstar-coin,2688,VIPS,Vipstar Coin
+owndata,3120,OWN,OWNDATA
+mallcoin,3340,MLC,Mallcoin
+planet,4242,PLA,PLANET
+peculium,2610,PCL,Peculium
+compendia,3622,BIND,Compendia
+inex-project,5300,INEX,Inex Project
+verisafe,3365,VSF,VeriSafe
+rapidz,4298,RPZX,Rapidz
+exrnchain,2088,EXRN,EXRNchain
+everycoin,3754,EVY,EveryCoin 
+restart-energy-mwat,2533,MWAT,Restart Energy MWAT
+waves-community-token,1527,WCT,Waves Community Token
+newyorkcoin,298,NYC,NewYorkCoin
+weshow-token,3585,WET,WeShow Token
+holyheld,7371,HOLY,Holyheld
+lina,3083,LINA,LINA
+raven-protocol,4024,RAVEN,Raven Protocol
+adshares,1883,ADS,Adshares
+vinchain,3082,VIN,VINchain
+skrumble-network,2725,SKM,Skrumble Network
+halo-platform,3728,HALO,Halo Platform
+aichain,2407,AIT,AICHAIN
+pundi-x-nem,3096,NPXSXEM,Pundi X NEM
+native-coin,584,N8V,NativeCoin
+cajutel,3715,CAJ,Cajutel
+definition,6662,DZI,DeFinition
+offshift,6236,XFT,Offshift
+vericoin,323,VRC,VeriCoin
+flo,64,FLO,FLO
+hitchain,3182,HIT,HitChain
+autonio,2151,NIOX,Autonio
+1world,2601,1WO,1World
+cube,2559,AUTO,Cube
+8x8-protocol,5620,EXE,8X8 PROTOCOL
+omni,83,OMNI,Omni
+gmb,3757,GMB,GMB
+epic-cash,5435,EPIC,Epic Cash
+hubii-network,2031,HBT,Hubii Network
+zclassic,1447,ZCL,ZClassic
+safex-cash,4183,SFX,Safex Cash
+folder-protocol,7687,FOL,Folder Protocol
+sylo,5662,SYLO,Sylo
+zrcoin,1726,ZRC,ZrCoin
+zum-token,4826,ZUM,ZUM TOKEN
+ulord,3233,UT,Ulord
+mintcoin,141,MINT,MintCoin
+libra-credit,2760,LBA,Cred
+chronocoin,4484,CRN,ChronoCoin
+global-social-chain,2737,GSC,Global Social Chain
+easyfi,7332,EASY,EasyFi
+isiklar-coin,5468,ISIKC,Isiklar Coin
+menapay,4001,MPAY,MenaPay
+boolberry,406,BBR,Boolberry
+primecoin,42,XPM,Primecoin
+blink,7784,BLINK,BLink
+naka-bodhi-token,4047,NBOT,Naka Bodhi Token
+wpp-token,3885,WPP,WPP TOKEN
+dimecoin,90,DIME,Dimecoin
+oceanex-token,3880,OCE,OceanEx Token
+oduwa,3763,OWC,ODUWA
+ddkoin,4180,DDK,DDKoin
+connectome,6039,CNTM,Connectome
+linka,4850,LINKA,LINKA
+krios,3998,GIG,Krios
+cornichon,7806,CORN,Cornichon
+acute-angle-cloud,2438,AAC,Acute Angle Cloud
+vexanium,2998,VEX,Vexanium
+ethereum-meta,3589,ETHM,Ethereum Meta
+quark,53,QRK,Quark
+experty,2547,EXY,Experty
+winstars-live,4138,WNL,WinStars.live
+bitball,3687,BTB,BitBall
+bartertrade,6592,BART,BarterTrade
+ormeus-cash,5818,OMC,Ormeus Cash
+bitnewchain,3225,BTN,BitNewChain
+auroracoin,148,AUR,Auroracoin
+xtrabytes,1636,XBY,XTRABYTES
+perth-mint-gold-token,5203,PMGT,Perth Mint Gold Token
+hicoin,1244,XHI,HiCoin
+eureka-coin,4966,ERK,Eureka Coin
+sinovate,3514,SIN,SINOVATE
+educare,2453,EKT,EDUCare
+odyssey,2458,OCN,Odyssey
+vid,5428,VI,Vid
+piratecash,4460,PIRATE,PirateCash
+moonswap,7017,MOON,MoonSwap
+smartcredit-token,7596,SMARTCREDIT,SmartCredit Token
+xfinance,7038,XFI,Xfinance
+xbtc,7168,xBTC,xBTC
+kuai-token,3691,KT,Kuai Token
+pawtocol,5086,UPI,Pawtocol
+pascal,1473,PASC,Pascal
+education-ecosystem,2562,LEDU,Education Ecosystem
+titan-coin,3913,TTN,Titan Coin
+infinity-esaham,4903,INFS,Infinity Esaham
+ig-gold,4054,IGG,IG Gold
+thekey,2507,TKY,THEKEY
+lighthouse-token,4230,LHT,LHT
+hydro,2698,HYDRO,Hydro
+indahash,2459,IDH,indaHash
+eos-force,4769,EOSC,EOS Force
+qunqun,2375,QUN,QunQun
+hyperion,3695,HYN,Hyperion
+amoveo,3716,VEO,Amoveo
+quadrantprotocol,3625,EQUAD,QuadrantProtocol
+bitcapitalvendor,3066,BCV,BitCapitalVendor
+club-atletico-independiente,7639,CAI,Club Atletico Independiente
+cargox,2490,CXO,CargoX
+rarible,5877,RARI,Rarible
+curecoin,333,CURE,Curecoin
+bancacy,4775,BNY,Bancacy
+amlt,2607,AMLT,AMLT
+footballcoin,3663,XFC,Footballcoin
+meridian-network,6566,LOCK,Meridian Network
+bakerytoken,7064,BAKE,BakeryToken
+banano,4704,BAN,Banano
+contentbox,2945,BOX,ContentBox
+kambria,3634,KAT,Kambria
+zen-protocol,3186,ZP,Zen Protocol
+bean-cash,819,BITB,Bean Cash
+cvcoin,1810,CVN,CVCoin
+apollon-limassol,7638,APL,Apollon Limassol
+megacoin,37,MEC,Megacoin
+opendao,7783,OPEN,OpenDAO
+ravencoin-classic,5713,RVC,Ravencoin Classic
+sphere,914,SPHR,Sphere
+phoenixdao,5674,PHNX,PhoenixDAO
+eos-trust,4124,EOST,EOS TRUST
+daps-coin,3345,DAPS,DAPS Coin
+dify-finance,7143,YFIII,DiFy.Finance
+hashsbx,3769,HBX,HashBX 
+globalboost-y,644,BSTY,GlobalBoost-Y
+manna,1019,MANNA,Manna
+plair,3711,PLA,Plair
+now-token,3893,NOW,NOW Token
+cotrader,3779,COT,CoTrader
